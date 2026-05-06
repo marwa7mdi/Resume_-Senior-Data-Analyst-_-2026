@@ -8,33 +8,66 @@
 
 Senior Data Analyst with 7+ years of experience delivering end-to-end analytics solutions that transform complex data into actionable business insights.
 
-I specialize in **Power BI, Data Modeling, and KPI Framework Design**, helping organizations make data-driven decisions across finance, marketing, real estate, and operations.
+I specialize in **Power BI, Data Modeling, and KPI Framework Design**, enabling organizations to monitor performance, identify opportunities, and make data-driven decisions.
 
 I act as a **strategic data partner**, bridging the gap between business needs and scalable analytics solutions.
 
 ---
 
-## 🚀 Core Skills
+## 🚀 Featured Projects
 
-### 📊 Business & Analytics
+### 🔹 Data-Driven Business Transformation
 
-* Data Analysis & Business Insights
-* KPI Design & Performance Management
-* Data Storytelling & Visualization
-* Stakeholder Management & Requirements Gathering
+**From Manual Sheets to 5x Operational Growth**
 
-### ⚙️ Technical Skills
+* Transformed manual reporting processes into automated data workflows
+* Built scalable reporting and analytics solutions
+* Enabled significant operational growth through data-driven insights
+  🔗 https://github.com/marwa7mdi/Data-Driven-Business-Transformation
 
-* **Power BI** (Data Modeling, DAX, Power Query, Dashboards)
-* **SQL** (Data Extraction, Transformation, Validation)
-* Data Modeling (Star Schema, Data Warehousing)
-* Advanced Excel (Automation, Power Query, PivotTables)
+---
 
-### 🛡️ Data Management
+### 🔹 AI-Powered PDF Document Analyzer (RAG)
 
-* Data Quality & Validation
-* Data Governance
-* Row-Level Security (RLS)
+* Built a Retrieval-Augmented Generation (RAG) pipeline to analyze complex PDF documents
+* Implemented intelligent querying and semantic search capabilities
+* Applied real-world ESG report analysis use case
+  🔗 https://github.com/marwa7mdi/AI-Powered-PDF-Document-Analyzer-RAG
+
+---
+
+### 🔹 Real Estate Analysis Dashboard
+
+* Developed an interactive dashboard to analyze real estate performance and trends
+* Provided insights on pricing, demand, and investment opportunities
+* Applied data modeling and visualization best practices
+  🔗 https://github.com/marwa7mdi/Real-Estate-Analysis-Dashboard
+
+---
+
+### 🔹 Power BI Sales Dashboard
+
+* Designed KPI-driven dashboards to monitor sales performance
+* Built data models and DAX measures for trend analysis and reporting
+* Enabled business stakeholders to track and optimize performance
+  🔗 https://github.com/marwa7mdi/Power-BI-Sales-Project
+
+---
+
+### 🔹 Customer Cohort Analysis (Power BI)
+
+* Performed cohort analysis to understand customer retention and behavior
+* Built analytical models to support marketing and growth strategies
+  🔗 https://github.com/marwa7mdi/Power-BI-Customers-Cohort-Analysis
+
+---
+
+### 🔹 Data Warehouse Project
+
+* Designed and implemented a data warehouse structure
+* Applied star schema modeling and ETL processes
+* Improved reporting performance and scalability
+  🔗 https://github.com/marwa7mdi/Data-WareHouse
 
 ---
 
@@ -46,10 +79,10 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 * Designed and delivered interactive Power BI dashboards enabling stakeholders to monitor KPIs and make data-driven decisions
 * Automated reporting processes, reducing manual effort by **up to 70%**
-* Built scalable **Star Schema** data models for performance optimization
-* Developed advanced **DAX measures** for KPI tracking and trend analysis
-* Translated business requirements into scalable analytics solutions
-* Implemented data validation and governance processes
+* Built scalable **Star Schema** data models
+* Developed advanced **DAX measures**
+* Translated business requirements into analytical solutions
+* Implemented data governance and validation processes
 
 ---
 
@@ -57,11 +90,10 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 *Arqam Alarabia | Sep 2023 – Present*
 
-* Developed KPI frameworks across sales, HR, and operations
-* Built and maintained Power BI dashboards integrating SQL, Excel, and CRM systems
-* Automated reporting workflows for improved efficiency and accuracy
-* Standardized reporting logic across departments
-* Enabled leadership with real-time dashboards for faster decision-making
+* Developed KPI frameworks across multiple business functions
+* Built and maintained Power BI dashboards integrating multiple data sources
+* Automated reporting workflows and improved efficiency
+* Enabled leadership with real-time dashboards
 
 ---
 
@@ -69,9 +101,9 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 *IMP – Institute of Management Professionals | Nov 2024 – Present*
 
-* Delivered training programs in Power BI, SQL, Excel, and Power Platform
-* Designed real-world case studies for practical learning
-* Mentored professionals on applying data analytics in business contexts
+* Delivered training in Power BI, SQL, Excel, and Power Platform
+* Designed real-world case studies
+* Mentored professionals on applying data analytics
 
 ---
 
@@ -79,9 +111,9 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 *Thmanyah Podcast | Mar 2022 – Aug 2022*
 
-* Built dashboards to track marketing performance and campaign effectiveness
-* Consolidated multi-platform data into unified reporting models
-* Conducted customer behavior analysis to improve targeting and engagement
+* Built dashboards to track marketing performance
+* Conducted customer behavior analysis
+* Improved targeting and engagement strategies
 
 ---
 
@@ -89,19 +121,18 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 *Mashroo3k BSS | 2019 – 2021*
 
-* Developed KPI dashboards across multiple business functions
-* Built ETL pipelines and reporting systems
-* Supported feasibility studies with data-driven insights
+* Developed KPI dashboards and reporting systems
+* Built ETL pipelines
+* Supported strategic decision-making
 
 ---
 
 ## 🏆 Key Achievements
 
 * Built end-to-end analytics solutions (data → model → dashboard)
-* Enabled leadership with centralized KPI dashboards
 * Reduced reporting time significantly through automation
 * Improved data quality and reporting reliability
-* Standardized KPI definitions across business units
+* Enabled data-driven decision-making across multiple industries
 
 ---
 
@@ -114,8 +145,8 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 ## 📜 Certifications
 
-* Microsoft Certified: Power BI Data Analyst Associate (Valid until Jun 2026)
-* Microsoft Certified: Fabric Analytics Engineer Associate (In Progress)
+* Microsoft Certified: Power BI Data Analyst Associate
+* Microsoft Certified: Fabric Analytics Engineer (In Progress)
 * Data Science Specialist – Epsilon AI
 * CCNA – Cisco Certified Network Associate
 
@@ -125,7 +156,7 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 * Power BI, Tableau
 * SQL, Python (Pandas, NumPy)
-* ETL / ELT, Data Warehousing
+* Data Modeling, Data Warehousing
 * Power Query, API Integration
 * Advanced Excel
 
@@ -137,6 +168,7 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 * English (Professional)
 
 ---
+
 
 ## 📫 Contact
 
