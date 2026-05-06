@@ -142,7 +142,7 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 * 📧 Email: [marwa7mdi@gmail.com](mailto:your.email@example.com)
 * 💼 LinkedIn: www.linkedin.com/in/marwah7mdi
-* 💻 GitHub: https://[github.com/yourusername](https://github.com/marwa7mdi)
+* 💻 GitHub: https://[github.com/marwa7mdi](https://github.com/marwa7mdi)
 
 ---
 
