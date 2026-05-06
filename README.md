@@ -62,15 +62,6 @@ I act as a **strategic data partner**, bridging the gap between business needs a
 
 ---
 
-### 🔹 Data Warehouse Project
-
-* Designed and implemented a data warehouse structure
-* Applied star schema modeling and ETL processes
-* Improved reporting performance and scalability
-  🔗 https://github.com/marwa7mdi/Data-WareHouse
-
----
-
 ## 💼 Professional Experience
 
 ### 🔹 Senior Data Analytics Consultant
